@@ -5,7 +5,7 @@ const repoURL = "https://github.com/YB-Yottabyte/YB-Yottabyte.github.io.git";
 ghpages.publish(
   pathname,
   {
-    branch: "master",
+    branch: "main",
     repo: repoURL,
   },
   (err) => {
