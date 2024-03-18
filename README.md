@@ -1,16 +1,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Developer's Portfolio ✨</h1>
+  <h1 align="center">Sai Rithwik's Portfolio ✨</h1>
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
     <br/>
     <strong>Site URL / Demo » </strong> 
-    <a href="https://github.com/YB-Yottabyte/Portfolio-.git">hashirshoaeb.github.io/home</a>
+    
     <br />
     <br />
-    <a href="https://github.com/YB-Yottabyte/Portfolio-.git">About Me</a>
   </p>
 </p>
 
